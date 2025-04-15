@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import '../index.css';
-import { Videos, ChannelCard } from "./";
+import { Videos, ChannelCard } from ".";
 import { fetchFromAPI } from "../utils/fetchFromAPI";
 
 

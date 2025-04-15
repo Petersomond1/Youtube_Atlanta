@@ -4,7 +4,7 @@ import { fetchFromAPI } from '../utils/fetchFromAPI';
 import ReactPlayer from 'react-player';
 import { FaCheckCircle } from 'react-icons/fa';
 import React, { useEffect, useState } from "react";
-import { Videos, Loader } from "./";
+import { Videos, Loader } from ".";
 
 
 function VideoDetail() {
